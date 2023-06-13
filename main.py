@@ -1,2 +1,3 @@
 age = 5
-print(f"hello my age is {age}")
+name = "ajika"
+print(f"hello my name is {name} age is {age}")
